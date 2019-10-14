@@ -1,0 +1,13 @@
+﻿Cheat Sheet of MSDOS
+http://www.cs.uwc.ac.za/~masm/prac1/DOS%20info.pdf
+
+MS-DOS                  Linux
+WHERE                   which
+FIND /C /V ""           wc
+FINDSTR "REGEX"         grep
+DIR /b                  ls
+DIR                     ls -l
+CLS                     clear
+HELP /?                 help -h
+HELP HELP               help help
+curl -O [webfile]       wget [webfile]

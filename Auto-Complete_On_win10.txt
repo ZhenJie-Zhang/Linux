@@ -1,0 +1,6 @@
+﻿https://blog.yowko.com/windows10-enable-autocomplete/
+
+1.windows key
+2.type in "regedit"
+3.find "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Command Processor"
+4."CompletionChar" and "PathCompletionChar" the value change to "9"

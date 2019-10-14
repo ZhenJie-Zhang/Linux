@@ -1,0 +1,5 @@
+﻿https://en.wikipedia.org/wiki/Windows_key
+ Win + E : opens Windows Explorer with folder pane on left side of window.
+ Alt + D : select address bar
+Ctrl + E : select search bar
+ Alt + F4: close selected window
